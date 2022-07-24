@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CourseRegistration_Sedrakb1</string>
+    <string name="add_button">add_button</string>
+    <string name="enter_name_of_student">Enter Student Name</string>
+    <string name="submit">submit</string>
+    <string name="enter_student_id">Enter Student ID</string>
+    <string name="student_info">Student_info</string>
+    <string name="studentyear">Studentyear</string>
+    <string name="computer_science_department">Computer Science Department</string>
+    <string name="logo">logo</string>
+    <string name="edit">Edit</string>
+    <string name="delete">delete</string>
+</resources>
